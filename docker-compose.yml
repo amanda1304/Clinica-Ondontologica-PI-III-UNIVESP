@@ -1,0 +1,22 @@
+services:
+  frontend:
+    build: ./react-ts
+    ports:
+      - "5173:5173"
+    volumes:
+      - ./react-ts/src:/app/src
+    develop:
+      watch:
+        - path: ./react-ts/src
+          action: rebuild
+
+  backend:
+    build: ./backend
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./backend:/app
+    develop:
+      watch:
+        - path: ./backend
+          action: rebuild
