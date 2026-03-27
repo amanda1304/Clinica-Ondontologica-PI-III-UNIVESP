@@ -1,0 +1,7 @@
+# Configurações do VS Code
+.vscode/
+
+# Python (Arquivos temporários e Ambientes Virtuais)
+venv/
+.venv/
+env/
