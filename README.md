@@ -14,7 +14,7 @@ desenvolvido o mockup do projeto
  - Necessário um ambiente de desenvolvimento (IDE) como VS Code
  - Docker Desktop
  - Conhecimentos : Javascript, React.js, Python, Django.
- <div align="center">
+ <div >
 <img alt="Javascript" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg">
 <img alt="React" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Light/React.svg">
 <img alt="Python" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Python.svg">
