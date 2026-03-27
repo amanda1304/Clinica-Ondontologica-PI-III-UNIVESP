@@ -1,9 +1,9 @@
 # PI-Projeto Integrador III da UNIVESP
-esse projeto é referente a disciplina de Projeto Integrador III que requer dos estudantes desenvolvimento de um projeto de ajude a resolver um problema sociedade(real), conversando com uma empresa odontológica que queria um site de agendamento e administração dos pacientes.
+Esse projeto é referente à disciplina de Projeto Integrador III, requer dos estudantes desenvolvimento de um projeto que ajude a solução de um problema da sociedade (real), conversando com uma empresa odontológica que queria um site de agendamentos e administração dos pacientes.
 
 ## Sistema de agendamento odontológico
 
-Sistema de agendamento eletronico sem a necessidade de atendente funcinando 24 horas e uma painel de contrale para o administrador 
+Sistema de agendamento eletrônico sem a necessidade de atendente, funcionando 24 horas, e um painel de controle para o administrador 
 ## interface 
 <img alt="Figma" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Figma.svg">
 desenvolvido o mockup do projeto
