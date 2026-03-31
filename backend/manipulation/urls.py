@@ -17,9 +17,11 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path, include, re_path
 from django.views.generic import TemplateView
+from core.views import meu_dados_view
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('api-auth/', include('rest_framework.urls'))
+    path('api-auth/', include('rest_framework.urls')),
+    path ('api/meu-dados/', meu_dados_view, name='meu_dados')
 ]
 urlpatterns += [re_path(r'^.*1', TemplateView.as_view(template_name = 'index.html'))]
